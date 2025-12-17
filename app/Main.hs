@@ -6,4 +6,5 @@ import Rbk
 import TplRbk
 import TplTest
 main = do 
+       tplTest
        print rbk

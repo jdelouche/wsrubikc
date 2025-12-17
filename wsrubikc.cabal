@@ -24,7 +24,7 @@ extra-source-files: CHANGELOG.md
 executable wsrubikc
     main-is:          Main.hs
 
-    other-modules:    Rbk,TplRbk
+    other-modules:    Rbk,TplRbk,TplTest
 
     -- LANGUAGE extensions used by modules in this package.
     -- other-extensions:
