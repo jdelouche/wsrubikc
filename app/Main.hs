@@ -3,6 +3,7 @@ import Prelude
 import Control.Exception
 import Data.Typeable
 import Rbk
+import TplRbk
 m = Mdl{mfrt=W}
 ct = Ctr{efrt=W,etop=O}
 cd = Cnr{cfrt=W,clft=O,ctop=B}
